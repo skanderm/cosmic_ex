@@ -22,7 +22,7 @@ defmodule Cosmic.Mixfile do
   defp deps do
     [
       {:httpotion, "~> 3.1.0"}, {:stash, "~> 1.0.0"}, {:poison, "~> 3.1"},
-      {:phoenix_pubsub, "~> 1.0"},
+      {:phoenix_pubsub, "~> 2.0"},
     ]
   end
 end
